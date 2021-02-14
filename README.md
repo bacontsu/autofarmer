@@ -4,7 +4,7 @@
 
 
 
-autofarmer with written in c# and optimized for low end hardware. 50% faster than clean gabb (real gabb without miner/stealer), Simple dark/night user interface aswell as easy user experience, while having almost detailed setting about the autofarmer. 
+autofarmer with written in c# and optimized for low end hardware. 50% faster than clean gabb (real gabb without miner/stealer), Simple dark-theme user interface aswell as easy user experience, while having almost detailed setting about the autofarmer. 
 Slightly rewriten and improvised with features and optimization based from https://github.com/Blacklock/gtautofarmer
 
 ## Low Resource Usage
